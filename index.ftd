@@ -24,12 +24,12 @@ header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /gptankit159
-header-item2-link: /gptankit159/about
-header-item3-link: /gptankit159/blogs
-header-item4-link: /gptankit159/projects
+header-item1-link: /Fastn_Portfolio
+header-item2-link: /Fastn_Portfolio/about
+header-item3-link: /Fastn_Portfolio/blogs
+header-item4-link: /Fastn_Portfolio/projects
 cta-item2: Resume
-cta-item2-link: /gptankit159/resume
+cta-item2-link: /Fastn_Portfolio/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:gptankit007@gmail.com
+link: mailto:gptankit159@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -116,23 +116,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/gpt-ankit
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/ankitivistic
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/gptankit159
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/gptankit1
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:gptankit159@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:gptankit159@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -207,23 +207,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/gpt-ankit
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/ankitivistic
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/gptankit159
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/gptankit1
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:gptankit159
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
